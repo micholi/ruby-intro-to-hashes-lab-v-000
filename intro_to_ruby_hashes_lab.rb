@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-
+	actors = {name: => "Tom Hanks"}
 end
 
 def monopoly
